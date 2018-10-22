@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+# Author: Vladimir Pavlychev https://github.com/KeyJoo
 # 2018-10-22
 
 sudo apt-get install htop
