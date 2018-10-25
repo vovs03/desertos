@@ -55,6 +55,20 @@ curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
 
 
 source /home/liveuser/.rvm/scripts/rvm
+echo "RVM is not a function, selecting rubies with 'rvm use ...' will not work."
+
+echo "You need to change your terminal emulator preferences to allow login shell."
+echo "Sometimes it is required to use `/bin/bash --login` as the command."
+echo "Please visit https://rvm.io/integration/gnome-terminal/ for an example."
+
+
+# use for set ruby-2.5.3 by defalt
+/bin/bash --login
+
+rvm use default 2.5.3
+
+
+
 
 
 # sudo dnf install rvm -y
