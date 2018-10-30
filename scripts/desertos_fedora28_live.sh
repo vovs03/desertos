@@ -11,6 +11,11 @@ sleep 3
 # Install editor for coding
 sudo dnf install sublimetext3 -y 
 
+# Set alias `subl` for Fedora 28
+echo "alias subl='Sublime text'"\n >> ~/.bashrc
+echo "alias subl='/opt/sublime_text/sublime_text'"\n >> ~/.bashrc
+
+
 sudo dnf install git -y
 echo "For working need set to ~/.ssh 2 keys!!"
 sleep 1.5
