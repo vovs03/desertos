@@ -16,51 +16,43 @@ echo ""
 echo "Now loggin into stackexchange keyjoo profiles & app.codesignal.com"
 echo ""
 
+#array=("https://superuser.com/users/864508/keyjoo" "https://stackoverflow.com/users/7472765/keyjoo")
+
+#arr=("${arr[@]}")
+
 /usr/bin/firefox
 
 # sleep 10
 
+#/usr/bin/firefox -new-tab
+
 # /usr/bin/firefox -new-window "https://superuser.com/users/864508/keyjoo"
-/usr/bin/firefox -new-tab "https://superuser.com/users/864508/keyjoo"
+#/usr/bin/firefox -new-tab "${arr[*]}"
 # sleep 5
 
+#3### /usr/bin/firefox -new-tab "https://stackoverflow.com/users/7472765/keyjoo"
 
-
+sleep 1
 /usr/bin/firefox -new-tab "https://stackoverflow.com/users/7472765/keyjoo"
-sleep 0.5
-
 /usr/bin/firefox -new-tab "https://ru.stackoverflow.com/users/235107/keyjoo"
-#sleep 1.5
-
+/usr/bin/firefox -new-tab "https://superuser.com/users/864508/keyjoo"
 /usr/bin/firefox -new-tab "https://cs.stackexchange.com/users/83277/keyjoo"
-sleep 0.5
+#sleep 0.5
 
 /usr/bin/firefox -new-tab "https://unix.stackexchange.com/users/271924/keyjoo"
-#sleep 1.5
-
 /usr/bin/firefox -new-tab "https://serverfault.com/users/454463/keyjoo"
-sleep 0.5
-
 /usr/bin/firefox -new-tab "https://crypto.stackexchange.com/users/43246/keyjoo"
-#sleep 1.5
-
 /usr/bin/firefox -new-tab "https://askubuntu.com/users/793028/keyjoo"
-sleep 0.5
+#sleep 0.5
 
 /usr/bin/firefox -new-tab "https://rus.stackexchange.com/users/188669/keyjoo"
-#sleep 1.5
-
 /usr/bin/firefox -new-tab "https://softwareengineering.stackexchange.com/users/300387/keyjoo"
-#sleep 3.5
-
 /usr/bin/firefox -new-tab "https://devops.stackexchange.com/users/9250/keyjoo"
-#sleep 10
-
 /usr/bin/firefox -new-tab "https://app.codesignal.com/"
 
-# echo ""
-# echo "... script was complited successful."
-# echo ""
+echo ""
+echo "... script was complited successful."
+echo ""
 
 
 # https://superuser.com/questions/583246/can-i-close-/usr/bin/firefox-browser-tab-or-/usr/bin/firefox-browser-from-ubuntu-terminal
