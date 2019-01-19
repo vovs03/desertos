@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 
 #set alias to system >> "ifg"
-inxi -F | gpu
+inxi -F | grep gpu
