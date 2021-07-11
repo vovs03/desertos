@@ -16,6 +16,11 @@
 
 :desktop_computer:  .. `reboot`
 
+## GUI switch on
+
+- `sudo systemctl enable default.target` `(/etc/systemd/system/defailt.target)`
+- `sudo systemctl set-default default.target`
+
 ---
 
 ## Supported systemctl functions
