@@ -16,6 +16,10 @@
 
 :desktop_computer:  .. `reboot`
 
+### Start DM
+
+- `sudo /etc/init.d/lightdm start`
+
 ## GUI switch on
 
 - `sudo systemctl enable default.target` `(/etc/systemd/system/defailt.target)`
