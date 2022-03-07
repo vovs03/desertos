@@ -15,3 +15,12 @@ sudo apt-get install build-essential cmake cmake-data autoconf automake pkg-conf
                           swig libvsqlitepp-dev libgdal-dev libgtk-3-dev libgtkmm-3.0-dev libssl-dev \
                           libsecret-1-dev libproj-dev
 ```
+
+## Альтернативы для mysql workbench
+
+- [Аналоги MySQL Workbench](https://ruprogi.ru/software/mysql-workbench)
+
+- `DBeaver`
+- `phpMyAdmin`
+- `Valentina Studio`
+- ... ещё 20шт.
