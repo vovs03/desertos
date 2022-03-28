@@ -2,8 +2,8 @@
 
 > [nvm](https://formulae.brew.sh/formula/nvm)
 
-- :a: [x] use `./install-nvm.sh`
-- :b: [x] add this data to `.zshrc` :
+- [x] :a: use `./install-nvm.sh`
+- [x] :b: add this data to `.zshrc` :
 
 ```terminal
 export NVM_DIR="$HOME/.nvm"
