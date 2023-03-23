@@ -58,6 +58,8 @@ curl -sSL https://get.rvm.io | bash -s stable
 
 curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
 
+# https://launchpad.net/plank
+sudo dnf install plank
 
 source /home/liveuser/.rvm/scripts/rvm
 echo "RVM is not a function, selecting rubies with 'rvm use ...' will not work."
