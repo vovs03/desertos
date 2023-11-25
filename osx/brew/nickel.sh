@@ -3,24 +3,20 @@
 # Vladimir Victor Pavlychev
 # Ventura 13.2.1
 # https://github.com/vovs03/desertos
-# /Users/husky/Projects/desertos/osx/brew/clojure.sh
-# 🍏 UUID:: F6025770-7FDF-4817-B322-9DB775CB3909
+# /Users/husky/Projects/desertos/osx/brew/nickel.sh
+# 🍏 UUID:: E78C639E-3FE3-424D-958B-240FDF7066BE
 
 clear
 
 #### Set before run:
-#### chmod +x ./clojure.sh
-echo "Preparing for install 🔋 Clojure lang"
+#### chmod +x ./nickel.sh
+echo "Preparing for install 🔋 Nickel-lang"
 
-#### https://clojure.org/guides/install_clojure
-sleep 0.75
-brew install clojure/tools/clojure
+#### https://nickel-lang.org/getting-started
+sleep 0.85
+brew install nickel
 
-sleep 120
-# Clojure requires Java.
+#### Post Install
 
-echo "Preparing for install 🔋 Adoptium Temurin installer ⚡️ "
-brew install --cask temurin # - install Temurin 21 (formerly AdoptOpenJDK)
-
-#### Post-install instructions to see here:
-# https://github.com/clojure/clojure-site/blob/master/content/guides/install_clojure.adoc
+echo "Run REPL"
+nickel repl
