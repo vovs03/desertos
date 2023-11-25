@@ -12,6 +12,5 @@ clear
 #### chmod +x ./nickel.sh
 echo "Preparing for install 🔋 ffmpeg"
 
-#### https://nickel-lang.org/getting-started
 sleep 0.85
 brew install ffmpeg
