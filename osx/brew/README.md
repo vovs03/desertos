@@ -17,3 +17,10 @@
 - [x] `Clojure & Temurin` |> `2023-11-06 11:08`
 - [x] `nickel` |> `2023-11-06 12:21`
 - [x] `ffmpeg` |> `2023-11-25 18:12`
+- [x] `raycast` |> `2024-04-04 16:35`
+
+## Raycast
+
+This is utility like `Alfred` with 1000 extensions
+
+> https://www.raycast.com/templates/crud-admin-panel
