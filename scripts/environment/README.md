@@ -1,5 +1,15 @@
 # Scripts/environment
 
+## FLutter
+
+> 3.22.2 |> `2024-07-03 WED 13:44`
+
+- [x] [flutter releases:](https://docs.flutter.dev/release/archive)
+
+<!-- https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.22.2-stable.tar.xz -->
+
+---
+
 ## FVM - flutter version management
 
 - [x] [fvm.app](https://fvm.app/)
