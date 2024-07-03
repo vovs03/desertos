@@ -1,5 +1,13 @@
 # Scripts/environment
 
+## Cmake
+
+> 18.1.8 |> `2024-07-03 15:25`
+> [Releases](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8)
+> `/Users/keyjoo/Projects/desertos/scripts/environment/cmake.zsh`
+
+---
+
 ## FLutter
 
 > 3.22.2 |> `2024-07-03 WED 13:44`
