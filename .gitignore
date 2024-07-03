@@ -1,0 +1,21 @@
+## https://gist.github.com/rodw/3006349
+## 2024-07-02 13:24 
+## archives and compressed files
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.bzip
+*.xz
+*.lzma
+*.tar
+*.tgz
+*.tar.gz
+*.iso
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
