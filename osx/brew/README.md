@@ -8,6 +8,7 @@
 - [x] `Clojure & Temurin` |> `2023-11-06 11:08`
 - [x] `ffmpeg` |> `2023-11-25 18:12`
 - [x] `figma` |> `2022-08-08 18:48 Osx 10.15` |> `Downloading https://desktop.figma.com/mac/Figma-116.2.4.zip`
+- [x] `font-fira-code` |> `2024-09-18 11:43` #75, #107
 - [x] `foxitreader` |> `2022-08-07`
 - [x] `fvm` |> `2024-07-02 09:32` [fvm install](ttps://fvm.app/documentation/getting-started/installation)
 - [x] `brew install gpg gawk`
