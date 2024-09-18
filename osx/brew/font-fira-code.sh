@@ -5,7 +5,7 @@
 
 # https://github.com/vovs03/desertos
 # /Users/dwarf/Projects/desertos/osx/brew/font-fira-code.sh
-# 🍏 UUID:: F6025770-7FDF-4817-B322-9DB775CB3909
+# 🍏 UUID:: 73CF5E19-943B-4BA5-939C-55F9AACF617C
 
 clear
 
