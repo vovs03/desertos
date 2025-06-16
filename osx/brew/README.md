@@ -15,6 +15,7 @@
 - [x] `gh`
 - [x] `gpg2` | `ssh`
 - [x] `mc`
+- [x] `ngrok` |> `2025-06-08`
 - [x] `nickel` |> `2023-11-06 12:21`
 - [x] `tmux` [tmux](https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e)
 - [x] `tree`
