@@ -83,3 +83,7 @@ Before check it:
 
 - `gem list`
 - `gem list known`
+
+## `/tools`
+
+- [x] `/tools/bun/` |> 2025-07-25
